@@ -8,10 +8,10 @@
 
 4. 請將作業壓縮成 zip 或 tar 檔案，並於期限內上傳至中山網路大學<http://cu.nsysu.edu.tw/>，命名規則為 **"Student ID_TCPIP_HW３"** 。
 
-> Example : "D073040002_TCPIP_HW３"
+    > Example : "D073040002_TCPIP_HW３"
 
-1. 如果不遵守上述規則，作業以０分計算。
-2. 有任何問題請 email 至 net_ta@net.nsysu.edu.tw，或於11:00 A.M. – 5:00 P.M. 到網路系統實驗室(F5018)詢問。
+5. 如果不遵守上述規則，作業以０分計算。
+6. 有任何問題請 email 至 net_ta@net.nsysu.edu.tw，或於11:00 A.M. – 5:00 P.M. 到網路系統實驗室(F5018)詢問。
 
 Deadline：2019/10/30(Wed.) 23:59
 
